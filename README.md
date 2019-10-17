@@ -1,5 +1,9 @@
 # Assignment #5
 
+**NOTE: THIS ASSIGNMENT IS OPTIONAL**
+
+You must complete one out of homeworks #4, #5, and #6.
+
 ### Due Date: Thursday 10/31 by the end of class
 
 ### Description
