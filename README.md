@@ -15,3 +15,5 @@ In this section, you'll use datashader to create an animated timelapse of a "lar
 ### Deliverable
 
 The notebook and your animated GIF should be submitted to your own private repository on GitHub, which can be created using the following link:
+
+https://classroom.github.com/a/E8l4HicU
